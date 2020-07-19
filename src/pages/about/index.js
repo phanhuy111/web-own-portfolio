@@ -12,7 +12,7 @@ import Particles from "react-particles-js";
 
 class About extends Component {
   componentDidMount() {
-    ReactGa.initialize("UA-154721739-1");
+    ReactGa.initialize("UA-126048279-1");
     ReactGa.pageview("About Screen");
   }
 

@@ -12,7 +12,7 @@ class Loading extends Component {
 
   componentDidMount() {
     this.id = setTimeout(() => this.setState({ redirect: true }), 3000);
-    ReactGA.initialize("UA-154721739-1");
+    ReactGA.initialize("UA-126048279-1");
     ReactGA.pageview("Loading Screen");
   }
 

@@ -11,7 +11,7 @@ import ReactGa from "react-ga";
 import { Helmet } from "react-helmet";
 
 function Analytics() {
-  ReactGa.initialize("UA-154721739-1");
+  ReactGa.initialize("UA-126048279-1");
   ReactGa.pageview("Home Screen");
 }
 
